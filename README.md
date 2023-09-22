@@ -7,4 +7,4 @@ Mediapipe : https://github.com/google/mediapipe/blob/master/docs/solutions/face_
 ```pip install mediapipe```
 
 Face Alignment : https://pypi.org/project/face-alignment/
-'''pip install face-alignment```
+```pip install face-alignment```
