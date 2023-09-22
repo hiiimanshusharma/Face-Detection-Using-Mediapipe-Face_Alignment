@@ -6,5 +6,5 @@ This project involves utilizing an open-source face detection pipeline, such as 
 Mediapipe : https://github.com/google/mediapipe/blob/master/docs/solutions/face_detection.md <br />
 ```pip install mediapipe```
 
-Face Alignment : https://pypi.org/project/face-alignment/
+Face Alignment : https://pypi.org/project/face-alignment/ <br />
 ```pip install face-alignment```
